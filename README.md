@@ -1,1 +1,1 @@
-# Julia_fractal
+# Julia fractal
